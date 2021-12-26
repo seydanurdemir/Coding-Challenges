@@ -47,7 +47,7 @@ namespace Program
             Console.WriteLine("Infinite Loop");
             Console.WriteLine();
 
-            for (; ; ) { }
+            //for (; ; ) { }
 
             Console.WriteLine();
         }
