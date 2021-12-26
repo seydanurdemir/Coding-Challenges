@@ -13,6 +13,10 @@ Coding challenges and solutions.
     - First Reverse
   - Starter Courses
     - Learn JavaScript in One Week
+- Codility
+  - Challenges
+  - Exercises
+  - Lessons
 - HackerRank
   - Practice
     - Algorithms
