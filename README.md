@@ -1,6 +1,8 @@
 # Coding-Challenges
 Coding challenges and solutions.
 
+- Codecademy
+  - Challenges
 - CodeChef
   - Problems/School
     - ATM-HS08TEST
