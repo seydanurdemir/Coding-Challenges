@@ -1,2 +1,31 @@
 # Coding-Challenges
 Coding challenges and solutions.
+
+- CodeChef
+  - Problems/School
+    - ATM-HS08TEST
+- Codeforces
+  - Problemset
+    - Watermelon
+- Coderbyte
+  - Challenges
+    - First Factorial
+    - First Reverse
+  - Starter Courses
+    - Learn JavaScript in One Week
+- HackerRank
+  - Practice
+    - Algorithms
+      - Warmup
+        - Staircase
+        - Solve Me First
+    - Data Structures
+    - Tutorials
+      - 10 Days of Javascript
+      - 30 Days of Code (CSharp)
+- PatikaDev
+  - Modules
+    - CSharp 101
+- TopCoder
+  - Challenges
+  - Practice
