@@ -13,7 +13,7 @@ int main(void)
     {
         if (((double)withdraw + 0.5) < balance)
         {
-            printf("300f", (balance - ((double)withdraw + 0.5)));
+            printf("%.2f", (balance - ((double)withdraw + 0.5)));
         }
         else
         {
