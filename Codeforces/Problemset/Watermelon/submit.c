@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int main (void)
+int main(void)
 {
     /* Read w from stdin */
     int w = 0;
     scanf("%d", &w);
-    
+
     /* Write result to stdout */
     if ((w % 2) == 1)
     {
@@ -22,6 +22,6 @@ int main (void)
             printf("YES");
         }
     }
-    
+
     return 0;
 }
