@@ -29,6 +29,9 @@ Coding challenges and solutions.
     - Tutorials
       - 10 Days of Javascript
       - 30 Days of Code (CSharp)
+- LeetCode
+  - Learn
+  - Problemset
 - PatikaDev
   - Modules
     - CSharp 101
