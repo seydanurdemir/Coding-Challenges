@@ -23,6 +23,9 @@ Coding challenges and solutions.
   - Courses
     - Self-Paced Courses
   - Problems
+- Global AI Hub
+  - Courses
+    - Introduction to Machine Learning
 - HackerRank
   - Practice
     - Algorithms
