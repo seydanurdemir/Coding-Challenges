@@ -3,22 +3,15 @@
 int main(void)
 {
     // your code goes here
-    int withdraw = 0;
-    double balance = 0;
+    int withdraw;
+    float balance;
 
     scanf("%d", &withdraw);
-    scanf("%lf", &balance);
+    scanf("%f", &balance);
 
-    if ((withdraw % 5) == 0)
+    if (((withdraw % 5) == 0) && (((float)withdraw + 0.5) <= balance))
     {
-        if (((double)withdraw + 0.5) < balance)
-        {
-            printf("%.2f", (balance - ((double)withdraw + 0.5)));
-        }
-        else
-        {
-            printf("%.2f", balance);
-        }
+        printf("%.2f", (balance - ((float)withdraw + 0.5)));
     }
     else
     {
