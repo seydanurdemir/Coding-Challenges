@@ -1,3 +1,4 @@
-# 30 Days of Code
+# Problemset & Submissions
 
-[HackerRank > Practice > Tutorials > 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+[Codeforces > Problemset](https://codeforces.com/problemset)
+[My Codeforces Account](https://codeforces.com/profile/seydanurdemir)
