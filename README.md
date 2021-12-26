@@ -19,6 +19,10 @@ Coding challenges and solutions.
   - Challenges
   - Exercises
   - Lessons
+- GeeksForGeeks Practice
+  - Courses
+    - Self-Paced Courses
+  - Problems
 - HackerRank
   - Practice
     - Algorithms
