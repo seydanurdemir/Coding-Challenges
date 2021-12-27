@@ -9,6 +9,8 @@ Coding challenges and solutions.
 - Codeforces
   - Problemset
     - Watermelon
+- CodePen
+  - Challenges
 - Coderbyte
   - Challenges
     - First Factorial
@@ -23,6 +25,12 @@ Coding challenges and solutions.
   - Challenges
   - Exercises
   - Lessons
+- FreeCodeCamp
+  - Learn
+    - JavaScript Algorithms and Data Structures
+      - Projects
+        - Palindrome Checker
+        - Roman Numeral Converter
 - GeeksForGeeks Practice
   - Courses
     - Self-Paced Courses
