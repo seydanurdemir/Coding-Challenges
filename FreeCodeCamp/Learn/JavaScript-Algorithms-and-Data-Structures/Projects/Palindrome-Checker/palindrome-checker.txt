@@ -1,0 +1,19 @@
+function palindrome(str) {
+  // Convert all letters to lowecase.
+  str = str.toLowerCase();
+
+  // Remove all alphanumeric characters.
+  str = str.replace(/[^a-z0-9]/g, '');
+
+  // Take reversed string.
+  var rev = str.split('').reverse().join('').toString();
+
+  // Check if str and rev are same.
+  if (rev === str) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+palindrome("eye");
