@@ -15,6 +15,10 @@ Coding challenges and solutions.
     - First Reverse
   - Starter Courses
     - Learn JavaScript in One Week
+- Codewars
+  - Kata
+    - Multiplies of 3 or 5
+    - Multiply
 - Codility
   - Challenges
   - Exercises
