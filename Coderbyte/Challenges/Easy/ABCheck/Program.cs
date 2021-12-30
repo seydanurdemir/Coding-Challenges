@@ -17,8 +17,10 @@ namespace ABCheck
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(ABCheck("after badly"));
-            Console.WriteLine(ABCheck("Laura sobs"));
+            string str1 = "after badly";
+            string str2 = "Laura sobs";
+            Console.WriteLine(ABCheck(str1));
+            Console.WriteLine(ABCheck(str2));
         }
     }
 }
