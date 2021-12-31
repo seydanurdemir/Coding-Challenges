@@ -22,3 +22,24 @@
  * Output: true
  */
 
+using System;
+
+class Program
+{
+    public static string ABCheck(string str)
+    {
+        for (int i = 0; i < str.Length; i++)
+        {
+            if ((str[i] == 'a') && ((i + 4) < str.Length) && (str[i + 4] == 'b'))
+            {
+                return "true";
+            }
+        }
+        return "false";
+    }
+
+    static void Main()
+    {
+        Console.WriteLine(ABCheck(Console.ReadLine()));
+    }
+}
