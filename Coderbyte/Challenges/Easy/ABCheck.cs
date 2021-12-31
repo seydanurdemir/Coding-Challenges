@@ -1,6 +1,6 @@
 /**
  * Difficulty : Easy
- * Language   : C# (CSharp) (C Sharp)
+ * Language   : C# (CSharp)
  * My Score   : 9 out of 10
  */
 
