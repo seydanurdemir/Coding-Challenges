@@ -40,6 +40,11 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine(ABCheck(Console.ReadLine()));
+        string str1 = "after badly";
+        string str2 = "Laura sobs";
+        Console.WriteLine(ABCheck(str1));
+        Console.WriteLine(ABCheck(str2));
+        // keep this function call here
+        //Console.WriteLine(ABCheck(Console.ReadLine()));
     }
 }

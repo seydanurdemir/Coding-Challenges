@@ -100,13 +100,14 @@ class MainClass
         // My solution works without parenthesis
         return result.ToString();
     }
+    
     static void Main()
     {
-        //string str1 = "6*(4/2)+3*1";
-        //string str2 = "6/3-1";
-        //Console.WriteLine(Calculator(str1));
-        //Console.WriteLine(Calculator(str2));
+        string str1 = "6*(4/2)+3*1";
+        string str2 = "6/3-1";
+        Console.WriteLine(Calculator(str1));
+        Console.WriteLine(Calculator(str2));
         // keep this function call here
-        Console.WriteLine(Calculator(Console.ReadLine()));
+        //Console.WriteLine(Calculator(Console.ReadLine()));
     }
 }
