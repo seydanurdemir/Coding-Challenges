@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+ * Company  : Kron
+ * Language : C#
+ * Level    : New Graduate / Junior
+ */
+
+using System;
 
 namespace OccurringCharacters
 {
