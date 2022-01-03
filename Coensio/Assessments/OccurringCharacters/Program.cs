@@ -10,7 +10,7 @@ namespace OccurringCharacters
 
             for (int i = 0; i < str.Length; i++)
             {
-                if ((str.IndexOf(str[i].ToString()) != -1) && (str.IndexOf(str[i].ToString()) != str.LastIndexOf(str[i].ToString())) && (occ.IndexOf(str[i].ToString()) == -1))
+                if ((str.IndexOf(str[i].ToString()) != str.LastIndexOf(str[i].ToString())) && (occ.IndexOf(str[i].ToString()) == -1))
                 {
                     occ = String.Concat(occ, str[i].ToString());
                 }
