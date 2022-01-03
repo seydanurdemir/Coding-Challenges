@@ -4,9 +4,27 @@ namespace OccurringCharacters
 {
     class Program
     {
+        public static string OccurringCharacters(string str)
+        {
+            string occ = "";
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if ((str.IndexOf(str[i].ToString()) != -1) && (str.IndexOf(str[i].ToString()) != str.LastIndexOf(str[i].ToString())))
+                {
+                    String.Concat(occ, str[i].ToString());
+                }
+            }
+
+            return occ;
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string str1 = "happy";
+            string str2 = "improper";
+            Console.WriteLine(OccurringCharacters(str1));
+            Console.WriteLine(OccurringCharacters(str2));
         }
     }
 }
