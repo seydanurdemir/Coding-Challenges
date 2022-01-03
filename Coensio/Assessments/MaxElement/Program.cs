@@ -27,7 +27,10 @@ namespace MaxElement
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr1 = { 1, 3, 7, 21, 2, 4 };
+            int[] arr2 = { 1 };
+            Console.WriteLine(MaxElement(arr1));
+            Console.WriteLine(MaxElement(arr2));
         }
     }
 }
