@@ -1,0 +1,49 @@
+Question?
+[x] Selected Answer Marked
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+
+Which one is multiprocessing example?
+[ ] A cashier getting the order and also getting the payment
+[ ] Two cashiers getting the orders and also getting the payment
+[ ] A cashier getting orders
+[ ] One cashier getting the order, the other cashier is waiting
+
+Which one can be considered as a multitasking?
+[ ] A cashier getting the order and also getting the payment
+[ ] Two cashiers getting the orders and also getting the payments
+[ ] A cashier getting orders
+[ ] One cashier getting the order, the other cashier is waiting
+
+Which one of those are similar to a CPU context switch?
+[ ] A cashier getting the order and also getting the payment
+[ ] Two cashiers, one getting the orders and the other getting the payments
+[ ] A cashier getting orders
+[ ] One cashier getting the order, the other cashier is waiting
+
+What is best to describe the following?
+You are planning to go to a movieat 5 pm.You inquire about the availability of the tickets at 4 pm. and there is availability, but when you arrive 5 min. before it's a full house.
+[ ] Semaphore
+[ ] Race Condition
+[ ] Threads
+[ ] Context Switch
+
+Which one of these can be considered as an Async?
+[x] Messaging
+[ ] Video Call
+[ ] Phone Call
+[ ] Face2Face Discussin
+
+Which one may have the most critical real-time requirement?
+[ ] amazon.com
+[ ] Washing Machine
+[ ] Jetfighter
+[ ] a first-person shooter game
+
+Which one works faster?
+[ ] O(n!)
+[ ] O(n)
+[ ] O(logn)
+[x] O(1)
